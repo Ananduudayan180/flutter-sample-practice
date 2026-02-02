@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44036252547",
+    "project_id": "social-media-practice-68b96",
+    "storage_bucket": "social-media-practice-68b96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44036252547:android:2b687de945127c054accb6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_pHfUTzeTb2l2y3Tn9a75O3sUleH5Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44036252547:android:eb2a7285d58575994accb6",
+        "android_client_info": {
+          "package_name": "com.example.social_media_clone_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_pHfUTzeTb2l2y3Tn9a75O3sUleH5Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
