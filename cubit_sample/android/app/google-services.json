@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "844981238638",
+    "project_id": "cubit-sample",
+    "storage_bucket": "cubit-sample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844981238638:android:ad2803c2a05cbd67f71f7f",
+        "android_client_info": {
+          "package_name": "com.example.cubit_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844981238638-aq8bg5loqr7v1ifbmovgleimm4n6mlo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cubit_sample",
+            "certificate_hash": "8f7276a8bf3182770a1f4a661fe0a05ef5556095"
+          }
+        },
+        {
+          "client_id": "844981238638-58u0ssgub0hga19o0f2o984hjo9ih4c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f88uSkXS6D8zXOAHtFFDLr7BFP4Dldo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844981238638-58u0ssgub0hga19o0f2o984hjo9ih4c7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844981238638-ilcltmp6ke7ogpimfhseuk76hotcpguo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cubitSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
