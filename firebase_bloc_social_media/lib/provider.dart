@@ -1,7 +1,6 @@
 import 'package:firebase_bloc_social_media/data/services/firebase_auth_service.dart';
 import 'package:firebase_bloc_social_media/logic/auth/auth_cubit.dart';
 import 'package:firebase_bloc_social_media/presentation/ui/auth/auth_route.dart';
-import 'package:firebase_bloc_social_media/presentation/ui/auth/login_screen.dart';
 import 'package:firebase_bloc_social_media/presentation/ui/profile/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
