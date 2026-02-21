@@ -11,20 +11,14 @@ class NoteProvider extends ChangeNotifier {
   bool isLoading = false;
 
   Future<void> createNote(NoteModel note) async {
-    isLoading = true;
-    notifyListeners();
     await hiveRepo.createNote(note);
     notes = hiveRepo.getAllNote();
-    isLoading = false;
     notifyListeners();
   }
 
   Future<void> updateNote(NoteModel note) async {
-    isLoading = true;
-    notifyListeners();
     await hiveRepo.updateNote(note);
     notes = hiveRepo.getAllNote();
-    isLoading = false;
     notifyListeners();
   }
 
